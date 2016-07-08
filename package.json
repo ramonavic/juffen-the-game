@@ -1,0 +1,23 @@
+{
+  "name": "juf",
+  "version": "1.0.0",
+  "description": "juf game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ramonavic/juffen-the-game.git"
+  },
+  "author": "Ramon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ramonavic/juffen-the-game/issues"
+  },
+  "homepage": "https://github.com/ramonavic/juffen-the-game#readme",
+  "dependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.5.3"
+  }
+}
